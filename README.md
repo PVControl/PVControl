@@ -1,9 +1,6 @@
 # PVControl+
 
-Screenshot
+![](manual/img/2e0c3c5493711c40.png)
 
-Descipción
 
-Características
-
-[Manual](manual/Manual.md)
+- # [Manual](manual/README.md)
