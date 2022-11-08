@@ -1,7 +1,7 @@
 from clarifai.rest import ClarifaiApp
 from clarifai.rest import FeedbackInfo
 
-app = ClarifaiApp(api_key='346833e142374f2aa871b330773976d7')
+app = ClarifaiApp(api_key='xxxxxx')
 
 # positive feedback: this is a dog
 m = app.models.get('general-v1.3')
