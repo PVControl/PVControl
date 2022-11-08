@@ -1,6 +1,6 @@
 from clarifai.rest import ClarifaiApp
 
-app = ClarifaiApp(api_key='346833e142374f2aa871b330773976d7')
+app = ClarifaiApp(api_key='xxxxxxxxx')
 
 #General model
 #model = app.models.get('general-v1.3')
