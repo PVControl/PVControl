@@ -1,7 +1,7 @@
 from clarifai.rest import ClarifaiApp
 from clarifai.rest import Workflow
 
-app = ClarifaiApp(api_key='346833e142374f2aa871b330773976d7')
+app = ClarifaiApp(api_key='xxxxxxxx')
 
 workflow = Workflow(app.api, workflow_id="PVControl-WF1")
 
